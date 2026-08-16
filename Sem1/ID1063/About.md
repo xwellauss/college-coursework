@@ -31,6 +31,3 @@ Problem-solving.
 5. *Lab Attendance and Submissions - Continual - 5%*
 
 ---
-
-### Lectures
-1. [[Theory Lecture 1]]

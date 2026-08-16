@@ -72,6 +72,11 @@ Let $\sum_{n=1}^{\infty}a_n$ be a series of positive real numbers. Suppose that:
 - if r > 1, then the series $\sum_{n=1}^{\infty}a_n$ diverges
 - if r = 1, then the test is inconclusive
 
+**Theorem** (Abel-Pringsheim Criterion):
+Let ($a_n$) be a decreasing sequence of non-negative real numbers. If the series $\sum_{n=1}^{\infty}a_n$ converges, then $na_n \to 0$.
+
+(Abel's Test): Assume that $\sum_{} a_n$ is convergent and ($b_n$) is either increasing or decreasing, and there exist $m,M \in \mathbb{R}$ such that: $m \le b_n \le M$, $\forall n \in \mathbb{N}$. Then, $\sum_{}a_n b_n$ is convergent.
+
 **Theorem** (Gauss's Test):
 Let $\sum_{n = 1}^{\infty}a_n$ be a series of positive real numbers. Suppose $a_n/a_{n+1}=1+\alpha / n + b_n / n^p$ , where p > 1 and {$b_n$} is a bounded sequence. Then, $\sum_{n=1}^{\infty}a_n$ converges if $\alpha > 1$ and diverges if $\alpha \le 1$.
 
@@ -90,3 +95,6 @@ A series of the form $\sum_{n=1}^{\infty}(-1)^{n+1}a_n$, where $a_n$ is a sequen
 
 An absolutely convergent series is convergent.
 
+*Conditionally Convergent Series*: A series is said to be conditionally convergent if it is convergent but not absolutely convergent.
+
+**Theorem** (Leibniz Test): Let $(a_n)$ be a decreasing sequence of non-negative real numbers such that $a_n \to 0$. Then, the alternating series $S = \sum_{n=1}^{\infty}(-1)^{n-1}a_n$ converges. Moreover, $a_1 - a_2 \le S \le a_1$.
