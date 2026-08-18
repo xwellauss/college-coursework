@@ -19,7 +19,7 @@ Problem-solving.
 ### References
 - [[c-programming-kn-king.pdf|KN King Book]]
 - [Site](https://people.iith.ac.in/aravind/id1063.html)
-
+- [Shared Google Drive](https://drive.google.com/drive/u/0/folders/1w4AFQpvEG0O44-xqlpIcD8hPuj5F17qv)
 ---
 ### Evaluation and Exams
 4 Exams Total - 2 Theory and 2 Lab

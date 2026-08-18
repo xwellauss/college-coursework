@@ -1,0 +1,1 @@
+![[Sem1/MA1110/Images/image11.png]]
