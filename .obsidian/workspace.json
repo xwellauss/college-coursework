@@ -11,15 +11,16 @@
             "id": "08b1a4d12af31a57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Sem1/MA1110/Notes/Limits and Continuity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Sem1/ID1063/Lab/Lab4/Lab4-ReadMe.pdf",
+                "page": 2,
+                "left": -13,
+                "top": 796,
+                "zoom": 1.1715686274509804
               },
-              "icon": "lucide-file",
-              "title": "Limits and Continuity"
+              "icon": "lucide-file-text",
+              "title": "Lab4-ReadMe"
             }
           }
         ]
@@ -81,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.3203125
+    "width": 228.24545288085938
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -192,17 +193,26 @@
   },
   "active": "08b1a4d12af31a57",
   "lastOpenFiles": [
-    "Sem1/MA1110/Images/image11.png",
+    "Sem1/MA1110/Notes/Limits and Continuity.md",
+    "Sem1/ID1063/Lab/Lab4/Lab4-ReadMe.pdf",
+    "Sem1/ID1063/Lab/Lab4/star_pattern.c",
+    "Sem1/ID1063/Lab/Lab4/3.c~",
+    "Sem1/ID1063/Lab/Lab4/3",
+    "Sem1/ID1063/Lab/Lab4/counting",
+    "Sem1/ID1063/Lab/Lab4/counting.c~",
+    "Sem1/ID1063/Lab/Lab4/7.c~",
+    "Sem1/ID1063/Lab/Lab4/7.c",
+    "Sem1/ID1063/Lab/Lab4/6b.c~",
+    "Sem1/ID1063/Lab/Lab4/6b",
+    "Sem1/MA1110/Notes/Series.md",
+    "Sem1/MA1110/Notes/Sequences.md",
     "Sem1/MA1110/Notes/Introduction.md",
-    "Sem1/MA1110/Lecture Slides/Limit continuity_1st class.pdf",
-    "Sem1/MA1110/Assignments/Assignment 2.pdf",
+    "Sem1/MA1110/Images/image14.png",
+    "Sem1/MA1110/Images/image13.png",
+    "Sem1/MA1110/Images/image12.png",
+    "Sem1/MA1110/Images/image11.png",
     "Sem1/ID1063/About.md",
-    "Sem1/CY1010/Notes/Lecture 6 Annotated.xopp",
-    "Sem1/ID1063/Lecture Slides/Week3.pdf",
-    "Sem1/ID1063/Lecture Slides/Week1.pdf",
-    "Sem1/ID1063/Lecture Slides/Week2.pdf",
     "Sem1/CS1010/Notes/Propositions and Predicates.md",
-    "Sem1/ID1063/Lecture Slides/Week2-ID1063.pdf",
     "Sem1/CS1010/Notes/Proofs.md",
     "Sem1/CS1010/Notes/Functions.md",
     "Sem1/CS1010/Images/image34.png",
@@ -211,18 +221,8 @@
     "Sem1/CS1010/Images/image31.png",
     "Sem1/CS1010/Images/image30.png",
     "Sem1/CS1010/Images/image29.png",
-    "Sem1/CS1010/Images/image28.png",
-    "Sem1/CS1010/Images/image27.png",
-    "Sem1/CS1010/Images/image26.png",
-    "Sem1/CS1010/Images/image25.png",
     "Sem1/CS1010/Notes/Sets.md",
-    "Sem1/CS1010/Lecture Slides/Set Operations CS1010 Discrete Mathematics for Computer Science - main.pdf",
-    "Sem1/MA1110/Notes/Limits and Continuity.md",
-    "Sem1/CS1010/Lecture Slides/Introduction to Set CS1010 Discrete Mathematics for Computer Science - main.pdf",
-    "Sem1/CS1010/Lecture Slides/Functions CS1010 Discrete Mathematics for Computer Science - main.pdf",
-    "Sem1/MA1110/Notes/Sequences.md",
     "Sem1/MA1110/About.md",
-    "Sem1/MA1110/Notes/Series.md",
     "Sem1/CY1010/Notes/Lecture 6.md",
     "Sem1/CY1010/Notes/Lecture 5.md",
     "Sem1/CY1010/Notes/Lecture 3.md",
