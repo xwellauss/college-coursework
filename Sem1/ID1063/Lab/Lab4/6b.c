@@ -1,20 +1,35 @@
 #include <stdio.h>
+#include <math.h>
 
 int main()
 {
 	int n;
+	int x = 0;
 	scanf("%d", &n);
 
-	while(n > 0)
+	int t = n;
+	while(t > 0)
 	{
-		int a = n % 10;
+		int a = t % 10;
 
 		printf("%d,", a);
 
-		n /= 10;
+		t /= 10;
+		x++;
+	}
+	printf("\n");
+	printf("\n");
+	printf("\n");
+	
+	int p = n;
+	while(x > 0)
+	{
+		int a = p / (int)pow(10, x-1);
+		printf("%d,", a);
+		p -= a*(int)pow(10, x-1);
+		x--;
 	}
 	printf("\n");
 
-	// TODO: try 6c
 	return 0;
 }
