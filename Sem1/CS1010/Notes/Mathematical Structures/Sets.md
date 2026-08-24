@@ -1,4 +1,4 @@
-okA set is an unordered collection of objects.
+A set is an unordered collection of objects.
 
 **Notation**
 - *Roster Form: list all elements, seperated by commas.
@@ -73,3 +73,18 @@ $A - B = {x | x \in A \land x \not \in B} = A \cap B^c$
 
 ![[image17.png]]
 
+#### Countable and Uncountable Sets
+![[image35.png]]
+
+![[image36.png]]
+
+*Paradoxical Twist: An infinite set can have the same cardinality as a proper
+subset of itself!*
+
+![[image37.png]]
+
+![[image38.png]]
+
+![[image39.png]]
+
+![[image40.png]]

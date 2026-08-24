@@ -14,13 +14,13 @@ A function is a rule that takes an input and produces exactly one output. Every 
 
 ![[image25.png]]
 
-![[image26.png]]
+![[Sem1/CS1010/Images/image26.png]]
 
 ![[image27.png]]
 
-![[image28.png]]
+![[Sem1/CS1010/Images/image28.png]]
 
-![[image29.png]]
+![[Sem1/CS1010/Images/image29.png]]
 
 ![[image30.png]]
 
