@@ -30,4 +30,4 @@
 - [[mcs.pdf|Math for CS]]
 - [MIT OCW 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
-#### [[Propositions and Predicates]]
+#### [[1. Propositions and Predicates]]
