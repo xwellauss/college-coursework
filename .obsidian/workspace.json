@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
-                "mode": "preview",
+                "file": "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CY1010_Exam1_StudyGuide"
+              "title": "1. Introduction"
             }
           },
           {
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.1380310058594,
-    "collapsed": true
+    "width": 308.1380310058594
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -208,18 +207,27 @@
   },
   "active": "44459fabaafa9dbc",
   "lastOpenFiles": [
+    "Sem1/CS1010/Notes/Number Theory/2. Bases and Binary.md",
+    "Sem1/CS1010/Images/image66.png",
+    "Sem1/CS1010/Images/image65.png",
+    "Sem1/CS1010/Images/image64.png",
+    "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
+    "Sem1/CS1010/Images/image63.png",
+    "Sem1/CS1010/Images/image62.png",
+    "Sem1/CS1010/Images/image61.png",
+    "Sem1/CS1010/Images/image60.png",
+    "Sem1/CS1010/Images/image59.png",
+    "Sem1/CS1010/Images/image58.png",
+    "Sem1/CS1010/Images/image57.png",
+    "Sem1/CS1010/Lecture Slides/Number Theory CS1010 Discrete Mathematics for Computer Science - main.pdf",
+    "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
     "Sem1/MA1110/Practice/Calculus_Final_Exam_question_pattern.pdf",
     "Sem1/MA1110/Practice/Assignment 2.pdf",
     "Sem1/MA1110/Notes/5. Differentiability.md",
-    "Sem1/CS1010/Lecture Slides/Number Theory CS1010 Discrete Mathematics for Computer Science - main.pdf",
     "Sem1/MA1110/Notes/1. Introduction.md",
-    "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
     "Sem1/MA1110/Practice/Assignment_2_Solutions.pdf",
     "Sem1/MA1110/Notes/4. Limits and Continuity.md",
-    "Sem1/MA1110/Images/image46.png",
-    "Sem1/MA1110/Images/image45.png",
     "Sem1/MA1110/Notes/3. Series.md",
-    "Sem1/MA1110/Images/image44.png",
     "Sem1/MA1110/Lecture Slides/Calculus_I_IITH_MA1110_Fall_2026 (2)-47-58.pdf",
     "Sem1/MA1110/Practice/Question set-1.pdf",
     "Sem1/MA1110/Practice/MA1110_Assignment1_Solutions-3.pdf",
@@ -227,14 +235,6 @@
     "Sem1/MA1110/Notes/2. Sequences.md",
     "Sem1/CY1010/AI",
     "Sem1/MA1110/Practice/EndSem Exam calculus-1.pdf",
-    "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
-    "Sem1/CS1010/Images/image55.png",
-    "Sem1/CS1010/Images/image54.png",
-    "Sem1/CS1010/Images/image53.png",
-    "Sem1/CS1010/Images/image52.png",
-    "Sem1/CS1010/Images/image51.png",
-    "Sem1/CS1010/Images/image50.png",
-    "Sem1/CS1010/Images/image49.png",
     "Sem1/CY1010/Notes/Lecture 7.md",
     "Sem1/Projects/8bit-computer/About.md",
     "Sem1/CS1010/Notes/Mathematical Structures/Sets.md",
@@ -251,7 +251,6 @@
     "Sem1/CY1010/Notes/Lecture 3.md",
     "Sem1/CY1010/Notes/Lecture 1.md",
     "Sem1/CY1010/Notes/Lecture 4.md",
-    "Sem1/CY1010/About.md",
-    "Sem1/CY1010/Notes/Lecture 2.md"
+    "Sem1/CY1010/About.md"
   ]
 }
