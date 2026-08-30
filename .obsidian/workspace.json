@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
+                "file": "Sem1/EP1108/About.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "About"
             }
           },
           {
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.1380310058594
+    "width": 271.17840576171875
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -207,11 +207,24 @@
   },
   "active": "44459fabaafa9dbc",
   "lastOpenFiles": [
+    "Sem1/MA1110/Exams/answerkey.pdf",
+    "Sem1/MA1110/Exams/final-exam.pdf",
+    "Sem1/MA1110/Exams/answer.pdf",
+    "Sem1/MA1110/Exams",
+    "Sem1/MA1110/Notes/5. Differentiability.md",
+    "Sem1/EP1108/About.md",
+    "Sem1/EP1108",
+    "Sem1/MA1110/Notes/4. Limits and Continuity.md",
+    "Sem1/MA1110/Notes/3. Series.md",
+    "Sem1/MA1110/Notes/2. Sequences.md",
+    "Sem1/MA1110/Notes/1. Introduction.md",
+    "Sem1/MA1110/Lecture Slides/Calc I 2025-26 PYP.pdf",
+    "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
+    "Sem1/MA1110/Lecture Slides/MA1110_Calculus-I.pdf",
     "Sem1/CS1010/Notes/Number Theory/2. Bases and Binary.md",
     "Sem1/CS1010/Images/image66.png",
     "Sem1/CS1010/Images/image65.png",
     "Sem1/CS1010/Images/image64.png",
-    "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
     "Sem1/CS1010/Images/image63.png",
     "Sem1/CS1010/Images/image62.png",
     "Sem1/CS1010/Images/image61.png",
@@ -223,18 +236,7 @@
     "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
     "Sem1/MA1110/Practice/Calculus_Final_Exam_question_pattern.pdf",
     "Sem1/MA1110/Practice/Assignment 2.pdf",
-    "Sem1/MA1110/Notes/5. Differentiability.md",
-    "Sem1/MA1110/Notes/1. Introduction.md",
     "Sem1/MA1110/Practice/Assignment_2_Solutions.pdf",
-    "Sem1/MA1110/Notes/4. Limits and Continuity.md",
-    "Sem1/MA1110/Notes/3. Series.md",
-    "Sem1/MA1110/Lecture Slides/Calculus_I_IITH_MA1110_Fall_2026 (2)-47-58.pdf",
-    "Sem1/MA1110/Practice/Question set-1.pdf",
-    "Sem1/MA1110/Practice/MA1110_Assignment1_Solutions-3.pdf",
-    "Sem1/MA1110/Lecture Slides/MA1110_Calculas-I.pdf",
-    "Sem1/MA1110/Notes/2. Sequences.md",
-    "Sem1/CY1010/AI",
-    "Sem1/MA1110/Practice/EndSem Exam calculus-1.pdf",
     "Sem1/CY1010/Notes/Lecture 7.md",
     "Sem1/Projects/8bit-computer/About.md",
     "Sem1/CS1010/Notes/Mathematical Structures/Sets.md",
@@ -250,7 +252,6 @@
     "Sem1/CY1010/Notes/Lecture 5.md",
     "Sem1/CY1010/Notes/Lecture 3.md",
     "Sem1/CY1010/Notes/Lecture 1.md",
-    "Sem1/CY1010/Notes/Lecture 4.md",
-    "Sem1/CY1010/About.md"
+    "Sem1/CY1010/Notes/Lecture 4.md"
   ]
 }
