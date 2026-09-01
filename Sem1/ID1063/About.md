@@ -1,4 +1,4 @@
-## ID1063 - Introduction to Programming - 3 Credits
+# ID1063 - Introduction to Programming - 3 Credits
 
 ### Instructors
 1. Rakesh Venkat

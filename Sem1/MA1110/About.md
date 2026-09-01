@@ -1,4 +1,4 @@
-## MA1110 - Calculus 1 - 1 Credit
+# MA1110 - Calculus I - 1 Credit
 
 ### Instructors
 1. **Dhriti Sundar Patra** - dhriti@math.iith.ac.in

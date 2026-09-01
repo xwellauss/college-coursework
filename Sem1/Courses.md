@@ -3,14 +3,14 @@
 | Course Code                   | Course Title                        | Credits | Reg. Type | Elective Type            | Segment | Coordinator        |
 | ----------------------------- | ----------------------------------- | ------- | --------- | ------------------------ | ------- | ------------------ |
 | BT1010                        | Introduction to Life Sciences       | 1.00    | Regular   | Basic Sciences           | 5-6     | Dr. Gunjan Mehta   |
-| CS1000                        | Introduction to Computing           | 1.00    | Regular   | Departmental Core Theory | 3-6     | Unspecified        |
+| [[Sem1/CS1000/About\|CS1000]] | Introduction to Computing           | 1.00    | Regular   | Departmental Core Theory | 3-6     | Unspecified        |
 | [[Sem1/CS1010/About\|CS1010]] | Discrete Maths for Computer Science | 3.00    | Regular   | Departmental Core Theory | 1-6     | Dr. Rogers Mathew  |
 | [[Sem1/CY1010/About\|CY1010]] | Environmental Chemistry             | 2.00    | Regular   | Basic Sciences           | 1-4     | Dr. Abhijit Sau    |
-| EP1108                        | Modern Physics                      | 2.00    | Regular   | Basic Sciences           | 3-6     | Dr. Vandana Sharma |
+| [[Sem1/EP1108/About\|EP1108]] | Modern Physics                      | 2.00    | Regular   | Basic Sciences           | 3-6     | Dr. Vandana Sharma |
 | [[Sem1/ID1063/About\|ID1063]] | Introduction to Programming         | 3.00    | Regular   | Basic Engineering Skills | 1-6     | Dr. N R Aravind    |
-| LA1760                        | Communication Skills                | 2.00    | Regular   | Liberal Arts Elective    | 3-6     | Unspecified        |
-| [[Sem1/MA1110/About\|MA1110]] | Calculus-I                          | 1.00    | Regular   | Basic Sciences           | 1-2     | Unspecified        |
-| MA1220                        | Calculus-II                         | 1.00    | Regular   | Basic Sciences           | 3-4     | Unspecified        |
+| [[Sem1/LA1760/About\|LA1760]] | Communication Skills                | 2.00    | Regular   | Liberal Arts Elective    | 3-6     | Unspecified        |
+| [[Sem1/MA1110/About\|MA1110]] | Calculus-I                          | 1.00    | Regular   | Basic Sciences           | 1-2     | DSP                |
+| [[Sem1/MA1220/About\|MA1220]] | Calculus-II                         | 1.00    | Regular   | Basic Sciences           | 3-4     | Sukumar            |
 
 **Total Credits:** 16.00
 

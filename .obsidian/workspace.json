@@ -13,13 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
-                "mode": "preview",
+                "file": "Sem1/LA1760/About.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CY1010_Exam1_StudyGuide"
+              "title": "About"
+            }
+          },
+          {
+            "id": "536d5c6bd175b9b8",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/LA1760/Lecture Slides/Syllabus_Comm_Skills_LA1760.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 444,
+                "zoom": 1.1188725490196079
+              },
+              "icon": "lucide-file-text",
+              "title": "Syllabus_Comm_Skills_LA1760"
             }
           },
           {
@@ -37,7 +53,8 @@
               "title": "CY1010_Exam1_StudyGuide"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.17840576171875,
-    "collapsed": true
+    "width": 271.17840576171875
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -206,23 +222,35 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "44459fabaafa9dbc",
+  "active": "6dc253017b052ba3",
   "lastOpenFiles": [
-    "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.pdf",
-    "Sem1/CS1010/Lecture Slides/GCD Number Theory CS1010 Discrete Mathematics for Computer Science - main.pdf",
-    "Sem1/CS1010/Lecture Slides/Number Theory CS1010 Discrete Mathematics for Computer Science - main.pdf",
-    "Sem1/CS1010/Lecture Slides/Number Theory_ Divisibility and Modular Arithmetic CS1010 Discrete Mathematics for Computer Science - main.pdf",
+    "Sem1/CY1010/Notes/Lecture 8_9 Annotated.xopp~",
+    "Sem1/CY1010/Notes/Lecture 8_9 Annotated.xopp",
+    "Sem1/CY1010/Notes/Lecture 7 Annotated.xopp~",
+    "Sem1/MA1220/Lecture Slides",
+    "Sem1/MA1220/Notes",
+    "Sem1/MA1220/References",
+    "Sem1/LA1760/About.md",
+    "Sem1/LA1760/Lecture Slides/Syllabus_Comm_Skills_LA1760.pdf",
+    "Sem1/LA1760/References",
+    "Sem1/LA1760/Notes",
+    "Sem1/LA1760/Lecture Slides",
+    "Sem1/CY1010/Notes/Lecture 7.md",
+    "Sem1/CY1010/Notes/Lecture 7 Annotated.xopp",
     "Sem1/CS1010/Notes/Number Theory/3. GCD.md",
-    "Sem1/CS1010/Lecture Slides/CS1010_ Discrete Mathematics for Computer Science - course outline.pdf",
+    "Sem1/CS1010/Images/image68.png",
+    "Sem1/CS1010/Images/image67.png",
     "Sem1/EP1108/About.md",
+    "Sem1/EP1108/Images/image1.png",
     "Sem1/MA1220/About.md",
-    "Sem1/MA1220",
-    "Sem1/MA1110/Exams/answerkey.pdf",
-    "Sem1/MA1110/Exams/final-exam.pdf",
-    "Sem1/MA1110/Exams/answer.pdf",
-    "Sem1/MA1110/Exams",
+    "Sem1/CY1010/About.md",
+    "Sem1/CS1000/About.md",
+    "Sem1/CS1010/About.md",
+    "Sem1/ID1063/About.md",
+    "Sem1/MA1110/About.md",
+    "Sem1/Courses.md",
+    "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
     "Sem1/MA1110/Notes/5. Differentiability.md",
-    "Sem1/EP1108",
     "Sem1/MA1110/Notes/4. Limits and Continuity.md",
     "Sem1/MA1110/Notes/3. Series.md",
     "Sem1/MA1110/Notes/2. Sequences.md",
@@ -236,23 +264,11 @@
     "Sem1/CS1010/Images/image62.png",
     "Sem1/CS1010/Images/image61.png",
     "Sem1/CS1010/Images/image60.png",
-    "Sem1/CS1010/Images/image59.png",
-    "Sem1/CS1010/Images/image58.png",
-    "Sem1/CS1010/Images/image57.png",
-    "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
-    "Sem1/CY1010/Notes/Lecture 7.md",
     "Sem1/Projects/8bit-computer/About.md",
     "Sem1/CS1010/Notes/Mathematical Structures/Sets.md",
     "Sem1/CS1010/Notes/Mathematical Structures/Functions.md",
     "Sem1/CS1010/Notes/Mathematical Structures/Sequences.md",
     "Sem1/CS1010/Notes/Mathematical Structures/Matrices.md",
-    "Sem1/ID1063/About.md",
-    "Sem1/CS1010/About.md",
-    "Sem1/CS1010/Notes/Logic/1. Propositions and Predicates.md",
-    "Sem1/CS1010/Notes/Logic/2. Proofs.md",
-    "Sem1/MA1110/About.md",
-    "Sem1/CY1010/Notes/Lecture 6.md",
-    "Sem1/CY1010/Notes/Lecture 5.md",
-    "Sem1/CY1010/Notes/Lecture 3.md"
+    "Sem1/CS1010/Notes/Logic/1. Propositions and Predicates.md"
   ]
 }

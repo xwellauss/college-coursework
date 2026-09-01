@@ -1,4 +1,4 @@
-## CS1010 - Discreet Mathematics for CS - 3 Credits
+# CS1010 - Discreet Mathematics for CS - 3 Credits
 ---
 ### Instructors
 1. **Rogers Mathew** - rogers@cse.iith.ac.in
