@@ -312,8 +312,32 @@
 - Atom economy formula: (mass desired product / mass all reactants) × 100; addition reactions ≈ 100%, substitution reactions often <30%
 - E-factor = waste(g)/product(g); Ibuprofen: Boots process (6 steps, wasteful) vs BHC process (3 steps, atom-economical)
 - Total bacteria+archaea on Earth: ~1×10³⁰ cells
-
 ---
+
+Here's what each of the 7 recycling codes actually means — useful since your past papers test specific properties of these (e.g., "Type 5 is harder to recycle than Type 1"):
+
+**1 — PETE / PET (Polyethylene terephthalate)**  
+A polyester — made by condensation polymerization of terephthalic acid + ethylene glycol. Clear, strong, good gas barrier (why it's used for carbonated drinks). _Uses: soda/water bottles, peanut butter jars, salad dressing bottles._ Widely recycled — one of the two most recyclable plastics.
+
+**2 — HDPE (High-density polyethylene)**  
+Polyethylene with minimal branching, so chains pack tightly → denser, more rigid, more crystalline than LDPE. _Uses: milk jugs, detergent/shampoo bottles, bleach bottles._ Also one of the easily-recycled ones.
+
+**3 — PVC (Polyvinyl chloride)**  
+Made from vinyl chloride monomer (CH₂=CHCl) — the only one of the 7 with **chlorine** in its backbone. This is exactly the chemistry you saw with organochlorine POPs — chlorinated polymers are harder to safely burn/degrade because incineration risks producing HCl and dioxins. _Uses: pipes, shower curtains, medical tubing, vinyl records._ Rarely recycled because of this chlorine content.
+
+**4 — LDPE (Low-density polyethylene)**  
+Same monomer as HDPE (ethylene) but polymerized differently — more chain branching, so it's less crystalline, more flexible. This is the polyethylene most often cited as "quickly discarded as waste" from your past paper, since it's the classic single-use film/bag material. _Uses: sandwich bags, shrink wrap, grocery bags, squeeze bottles._
+
+**5 — PP (Polypropylene)**  
+Polymer of propylene (CH₂=CH-CH₃). Higher melting point than PE, good chemical resistance. _Uses: yogurt cups, ketchup bottles, bottle caps, microwave-safe containers._ This is the one flagged in your past paper as **harder to recycle than PET** (Type 1) despite seeming "safer" — recycling infrastructure and economics for PP lag behind PET/HDPE.
+
+**6 — PS (Polystyrene / Styrofoam)**  
+Polymer of styrene (vinylbenzene). Brittle, lightweight, good insulator when foamed. _Uses: disposable cups, take-out containers, packing peanuts, foam insulation._ Poor recyclability, and foamed PS breaks into persistent microplastic beads easily — one of the more environmentally problematic categories.
+
+**7 — Other**  
+A catch-all bin for everything that doesn't fit codes 1–6 — includes **polycarbonate** (the CO₂-derived polymer from your reactions PDF — made from epoxide + CO₂ ring-opening copolymerization) and **biodegradable plastics** (like the PHVB/starch-blended polyethylene from your lecture notes). Because it's a mixed category with inconsistent composition, it's essentially never recycled in standard streams.
+
+**The one connecting thread worth remembering:** the recyclability of a plastic tracks pretty closely with (a) whether it's a simple hydrocarbon polymer (PE, PP — easier) vs. contains heteroatoms like Cl (PVC — harder, and hazardous to incinerate), and (b) how economically valuable/pure the waste stream is (PET/HDPE have established markets; PP, PS, and "Other" don't).
 
 ## How to Use This Guide
 
