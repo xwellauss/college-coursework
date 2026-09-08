@@ -2,7 +2,7 @@
 
 | Course Code                   | Course Title                        | Credits | Reg. Type | Elective Type            | Segment | Coordinator        |
 | ----------------------------- | ----------------------------------- | ------- | --------- | ------------------------ | ------- | ------------------ |
-| BT1010                        | Introduction to Life Sciences       | 1.00    | Regular   | Basic Sciences           | 5-6     | Dr. Gunjan Mehta   |
+| [[Sem1/BT1010/About\|BT1010]] | Introduction to Life Sciences       | 1.00    | Regular   | Basic Sciences           | 5-6     | Dr. Gunjan Mehta   |
 | [[Sem1/CS1000/About\|CS1000]] | Introduction to Computing           | 1.00    | Regular   | Departmental Core Theory | 3-6     | Unspecified        |
 | [[Sem1/CS1010/About\|CS1010]] | Discrete Maths for Computer Science | 3.00    | Regular   | Departmental Core Theory | 1-6     | Dr. Rogers Mathew  |
 | [[Sem1/CY1010/About\|CY1010]] | Environmental Chemistry             | 2.00    | Regular   | Basic Sciences           | 1-4     | Dr. Abhijit Sau    |
