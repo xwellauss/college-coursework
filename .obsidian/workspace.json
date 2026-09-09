@@ -13,33 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/CS1010/Notes/Mathematical Structures/3. Functions.md",
+                "file": "Sem1/ID1063/About.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "3. Functions"
-            }
-          },
-          {
-            "id": "9ddd3fb0a26aa55e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/MA1220/Practice/ps1.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 846,
-                "zoom": 1.1704654647592043
-              },
-              "icon": "lucide-file-text",
-              "title": "ps1"
+              "title": "About"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,38 +190,42 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "9ddd3fb0a26aa55e",
+  "active": "3ec1319d565a786b",
   "lastOpenFiles": [
-    "Sem1/MA1220/Lecture Slides/lecture03.pdf",
-    "Sem1/MA1220/Practice/ps1.pdf",
-    "Sem1/MA1220/Practice",
-    "Sem1/MA1220/Lecture Slides/lecture04.pdf",
-    "Sem1/CS1010/Practice/exam1 2025.pdf",
-    "Sem1/CS1010/Practice/exam1 2024.pdf",
-    "Sem1/CS1010/References/RosenDiscreteMath8Ed.pdf",
+    "Sem1/ID1063/Lecture Slides/Week3.pdf",
+    "Sem1/ID1063/Lecture Slides/Week7-half.pdf",
+    "Sem1/ID1063/Lecture Slides/Week6.pdf",
+    "Sem1/ID1063/Lecture Slides/Week4_5.pdf",
+    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
+    "Sem1/EP1108/Images/image31.png",
+    "Sem1/EP1108/Images/image30.png",
+    "Sem1/EP1108/Images/image29.png",
+    "Sem1/EP1108/Images/image28.png",
+    "Sem1/EP1108/Images/image27.png",
+    "Sem1/EP1108/Images/image26.png",
+    "Sem1/EP1108/Images/image25.png",
+    "Sem1/EP1108/Notes/Part 1/Quantam Mechanics.md",
+    "Sem1/EP1108/About.md",
+    "Sem1/EP1108/Images/image24.png",
+    "Sem1/EP1108/Images/image23.png",
+    "Sem1/EP1108/Images/image22.png",
+    "Sem1/EP1108/Notes/Part/Untitled",
+    "Sem1/EP1108/Notes/Part 2",
+    "Sem1/ID1063/Lab/Lab6/5.c~",
+    "Sem1/ID1063/Lab/Lab6/4.c~",
+    "Sem1/EP1108/References/Concepts of Modern Physics -- Arthur Beiser -- 6th, 2008 -- McGraw-Hill Science, Engineering & Mathematics -- 5b369cb385901104eb34cbe0dad4277f -- Anna’s Archive.pdf",
+    "Sem1/ID1063/Lab/Lab6/3.c~",
+    "Sem1/EP1108/References/Modern Physics, 4ed -- Kenneth S_ Krane -- 2020 -- Vikas Gupta -- isbn13 9789388991797 -- d68e96523dafbe8b763155047430e856 -- Anna’s Archive.pdf",
+    "Sem1/CS1010/Notes/Number Theory/4. Linear Congruences.md",
+    "Sem1/ID1063/Lab/Lab6/Untitled.md",
+    "Sem1/CS1010/Notes/Number Theory/3. GCD.md",
+    "Sem1/CS1010/Notes/Number Theory/5. Cryptography.md",
+    "Sem1/CS1010/Notes/Mathematical Structures/3. Functions.md",
     "Sem1/CS1010/Notes/Logic/2. Proofs.md",
     "Sem1/CS1010/Notes/Logic/1. Propositions and Predicates.md",
-    "Sem1/CS1010/Practice/chp-4-exercises.pdf",
-    "Sem1/CS1010/Practice/chp1-exercises.pdf",
-    "Sem1/CS1010/Practice/exam2 2025.pdf",
-    "Sem1/CS1010/Practice/chp-2-exercises.pdf",
-    "Sem1/CS1010/Notes/Mathematical Structures/3. Functions.md",
-    "Sem1/CS1010/Notes/Number Theory/5. Cryptography.md",
-    "Sem1/CS1010/Notes/Number Theory/3. GCD.md",
-    "Sem1/CS1010/Images/image120.png",
     "Sem1/CS1010/Notes/Mathematical Structures/2. Sequences.md",
     "Sem1/CS1010/Notes/Mathematical Structures/1. Sets.md",
-    "Sem1/CS1010/Notes/Number Theory/4. Linear Congruences.md",
-    "Sem1/CS1010/Images/image119.png",
-    "Sem1/CS1010/Images/image118.png",
     "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
-    "Sem1/CS1010/Images/image117.png",
-    "Sem1/CS1010/Images/image116.png",
-    "Sem1/CS1010/Images/image115.png",
-    "Sem1/CS1010/Images/image114.png",
-    "Sem1/CS1010/Images/image113.png",
-    "Sem1/CS1010/Images/image112.png",
-    "Sem1/CS1010/Images/image111.png",
     "Sem1/CS1010/Notes/Mathematical Structures/4. Matrices.md",
     "Sem1/CS1010/Notes/Number Theory/5.2 Cryptography - II.md",
     "Sem1/CS1010/Notes/Number Theory/2. Bases and Binary.md",
@@ -248,12 +235,8 @@
     "Sem1/CS1010/Practice/exam1/TODO.md",
     "Sem1/CY1010/About.md",
     "Sem1/CS1010/Practice/exam/exam1/TODO.md",
-    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
-    "Sem1/EP1108/About.md",
     "Sem1/CY1010/Notes/Lecture 6.md",
     "Sem1/CY1010/AI/CY1010_Exam1_StudyGuide.md",
-    "Sem1/CY1010/AI/Past Year Papers Insight Exam 1.md",
-    "Sem1/LA1760/About.md",
-    "Sem1/CY1010/Notes/Lecture 7.md"
+    "Sem1/CY1010/AI/Past Year Papers Insight Exam 1.md"
   ]
 }

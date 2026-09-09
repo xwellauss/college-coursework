@@ -1,9 +1,8 @@
 # ID1063 - Introduction to Programming - 3 Credits
 
 ### Instructors
-1. Rakesh Venkat
-2. NR Aravind
-
+1. **Rakesh Venkat** - aravind@cse.iith.ac.in
+2. **NR Aravind** - rakesh@cse.iith.ac.in
 ---
 
 ### Syllabus
@@ -12,7 +11,6 @@ Variables, input, and assignment statements.
 Conditional statements (if...then...else); Iterations (while and for loops).  
 Arrays, Functions, Pointers, File handling.  
 Problem-solving.
-
 
 ---
 
