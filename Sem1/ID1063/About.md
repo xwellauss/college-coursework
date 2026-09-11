@@ -27,5 +27,4 @@ Problem-solving.
 3. Endsem Lab      -  During 9 to 13 Nov 2026 - 25%
 4. Endsem Theory -  14/11/26 - 27.5%
 5. *Lab Attendance and Submissions - Continual - 5%*
-
 ---
