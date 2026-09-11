@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/MA1110/Notes/1. Introduction.md",
+                "file": "Sem1/EP1108/Notes/Part 2/Electromagnetic Waves.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduction"
+              "title": "Electromagnetic Waves"
             }
           }
         ]
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.697265625
+    "width": 210.1432342529297
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -190,40 +190,42 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6dc253017b052ba3",
+  "active": "3ec1319d565a786b",
   "lastOpenFiles": [
-    "Sem1/MA1110/Notes/1. Introduction.pandoc.md",
-    "Sem1/MA1110/Notes/1. Introduction.md",
-    "Sem1/MA1220/Notes/2. Areas and Volumes.md",
-    "Sem1/MA1220/Notes/1. Riemann Sum.md",
-    "Sem1/MA1220/Notes/3. Improper Integrals.md",
-    "Sem1/MA1220/Images/image35.png",
-    "Sem1/MA1220/Images/image34.png",
-    "Sem1/MA1220/Images/image33.png",
-    "Sem1/MA1220/Images/image32.png",
-    "Sem1/MA1220/Images/image31.png",
-    "Sem1/MA1220/Images/image30.png",
-    "Sem1/MA1220/About.md",
-    "Sem1/MA1220/Images/image29.png",
-    "Sem1/MA1220/Images/image28.png",
-    "Sem1/MA1220/Images/image27.png",
-    "Sem1/MA1220/Images/image26.png",
-    "Sem1/MA1110/Notes.md",
-    "Sem1/MA1220/Practice/ps1.pdf",
-    "Sem1/MA1220/Lecture Slides/lecture01.pdf",
-    "Sem1/MA1220/Images",
-    "Sem1/MA1220/Lecture Slides/lecture05.pdf",
-    "Sem1/MA1220/Lecture Slides/lecture06.pdf",
-    "Sem1/EP1108/References/Modern Physics, 4ed -- Kenneth S_ Krane -- 2020 -- Vikas Gupta -- isbn13 9789388991797 -- d68e96523dafbe8b763155047430e856 -- Anna’s Archive.pdf",
-    "Sem1/EP1108/References/Concepts of Modern Physics -- Arthur Beiser -- 6th, 2008 -- McGraw-Hill Science, Engineering & Mathematics -- 5b369cb385901104eb34cbe0dad4277f -- Anna’s Archive.pdf",
-    "Sem1/EP1108/Lecture Slides/Chapter 5-Elements of QM-2026-class-3.pdf",
-    "Sem1/ID1063/About.md",
-    "Sem1/ID1063/Lecture Slides/Week6.pdf",
-    "Sem1/ID1063/Lecture Slides/Week7-half.pdf",
-    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
+    "Sem1/EP1108/Images/image76.png",
+    "Sem1/EP1108/Notes/Part 1/Quantum Mechanics.md",
+    "Sem1/EP1108/Notes/Part 2/Electromagnetic Waves.md",
+    "Sem1/EP1108/Images/image75.png",
+    "Sem1/EP1108/Images/image74.png",
+    "Sem1/EP1108/Images/image73.png",
+    "Sem1/EP1108/Images/image72.png",
+    "Sem1/EP1108/Images/image71.png",
+    "Sem1/EP1108/Images/image70.png",
+    "Sem1/EP1108/Images/image69.png",
+    "Sem1/EP1108/Images/image68.png",
+    "Sem1/EP1108/Images/image67.png",
+    "Sem1/EP1108/Images/image66.png",
     "Sem1/EP1108/About.md",
+    "Sem1/ID1063/Lecture Slides/Week7.pdf",
+    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
+    "Sem1/EP1108/Lecture Slides/Chapter 5-Elements of QM-2026-class-3.pdf",
+    "Sem1/EP1108/Lecture Slides/Chapter 4 - Atomic Structure-2026.pdf",
+    "Sem1/EP1108/Lecture Slides/EMW - lecture1n2 - lecture1n2.pdf",
+    "Sem1/CY1010/Lecture Slides/KN_Organic chemicals in environment_Class 1-3.pdf",
+    "Sem1/MA1220/Lecture Slides/lecture01.pdf",
+    "Sem1/MA1220/Practice/ps1.xopp~",
+    "Sem1/MA1220/Practice/ps1.xopp",
+    "Sem1/MA1220/Notes/1. Riemann Sum.md",
+    "Sem1/MA1220/Practice/ps1.pdf",
+    "Sem1/MA1220/Notes/3. Improper Integrals.md",
+    "Sem1/MA1110/Notes/1. Introduction.md",
+    "Sem1/MA1110/Notes/1. Introduction.pandoc.md",
+    "Sem1/MA1220/Notes/2. Areas and Volumes.md",
+    "Sem1/MA1220/About.md",
+    "Sem1/MA1110/Notes.md",
+    "Sem1/MA1220/Images",
+    "Sem1/ID1063/About.md",
     "Sem1/CS1000/About.md",
-    "Sem1/EP1108/Notes/Part 1/Quantam Mechanics.md",
     "Sem1/CS1010/Notes/Number Theory/4. Linear Congruences.md",
     "Sem1/ID1063/Lab/Lab6/Untitled.md",
     "Sem1/CS1010/Notes/Number Theory/3. GCD.md",
@@ -235,8 +237,6 @@
     "Sem1/CS1010/Notes/Mathematical Structures/1. Sets.md",
     "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
     "Sem1/CS1010/Notes/Mathematical Structures/4. Matrices.md",
-    "Sem1/CS1010/Notes/Number Theory/5.2 Cryptography - II.md",
-    "Sem1/CS1010/Notes/Number Theory/2. Bases and Binary.md",
-    "Sem1/Courses.md"
+    "Sem1/CS1010/Notes/Number Theory/5.2 Cryptography - II.md"
   ]
 }
