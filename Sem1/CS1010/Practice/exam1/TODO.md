@@ -1,4 +1,0 @@
-
-- [ ] Logic
-- [ ] Structures
-- [ ] Number Theory

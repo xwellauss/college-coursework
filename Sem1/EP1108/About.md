@@ -14,6 +14,11 @@
 1. [[Concepts of Modern Physics -- Arthur Beiser -- 6th, 2008 -- McGraw-Hill Science, Engineering & Mathematics -- 5b369cb385901104eb34cbe0dad4277f -- Anna’s Archive.pdf|Beiser Book]]
 2. [[Modern Physics, 4ed -- Kenneth S_ Krane -- 2020 -- Vikas Gupta -- isbn13 9789388991797 -- d68e96523dafbe8b763155047430e856 -- Anna’s Archive.pdf|Krane Book]]
 3. [[Krane_Indian_Edition.pdf|Krane Indian Edition]]
+4. https://www.youtube.com/watch?v=-Y0XL-K0jy0
+5. https://www.youtube.com/watch?v=acN7E7AUHPk
+6. https://www.youtube.com/watch?v=qtIsYbYdzCI
+7. https://www.youtube.com/watch?v=RCIz2hdJQy0
+8. https://www.falstad.com/qmatom/
 
 ### Exam and Evaluation
 1. **Midsem**: 5/10/26
