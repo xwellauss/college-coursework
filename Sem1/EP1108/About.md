@@ -19,6 +19,8 @@
 6. https://www.youtube.com/watch?v=qtIsYbYdzCI
 7. https://www.youtube.com/watch?v=RCIz2hdJQy0
 8. https://www.falstad.com/qmatom/
+9. https://planetmath.org/DerivationOfTheLaplacianFromRectangularToSphericalCoordinates
+10. https://winter.group.shef.ac.uk/orbitron/atomic_orbitals/1s/index.html
 
 ### Exam and Evaluation
 1. **Midsem**: 5/10/26

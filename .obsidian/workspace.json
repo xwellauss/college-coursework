@@ -8,86 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fa7a6e2fb4b3b3d3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/LA1760/Lecture Content/LastYearSlides/L5.pdf",
-                "page": 3,
-                "left": -32,
-                "top": 1780,
-                "zoom": 0.4705
-              },
-              "icon": "lucide-file-text",
-              "title": "L5"
-            }
-          },
-          {
-            "id": "79209c5a3ef7ca43",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/LA1760/Lecture Content/LastYearSlides/L6.pdf",
-                "page": 13,
-                "left": -32,
-                "top": 1191,
-                "zoom": 0.4705
-              },
-              "icon": "lucide-file-text",
-              "title": "L6"
-            }
-          },
-          {
-            "id": "c13942e1c9b7ffa0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/LA1760/Lecture Content/LastYearSlides/L8.pdf",
-                "page": 18,
-                "left": -32,
-                "top": 1801,
-                "zoom": 0.4705
-              },
-              "icon": "lucide-file-text",
-              "title": "L8"
-            }
-          },
-          {
-            "id": "33518110c4941725",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/LA1760/Notes/AI_Generated_Quiz1_Guide.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 846,
-                "zoom": 1.1855852986415032
-              },
-              "icon": "lucide-file-text",
-              "title": "AI_Generated_Quiz1_Guide"
-            }
-          },
-          {
             "id": "025934d4bbdfbbce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sem1/EP1108/About.md",
+                "file": "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Atomic Structure"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.26498413085938
+    "width": 270.078125
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -255,52 +190,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "33518110c4941725",
+  "active": "025934d4bbdfbbce",
   "lastOpenFiles": [
-    "Sem1/MA1220/Notes/4. Multivariable Functions.md",
-    "Sem1/MA1220/Lecture Slides/lecture03.pdf",
-    "Sem1/MA1220/Images/image53.png",
-    "Sem1/MA1220/Images/image52.png",
-    "Sem1/MA1220/Images/image51.png",
-    "Sem1/MA1220/Images/image50.png",
-    "Sem1/MA1220/Lecture Slides/lecture09.pdf",
-    "Sem1/MA1220/Images/image49.png",
-    "Sem1/MA1220/Images/image48.png",
-    "Sem1/MA1220/Images/image47.png",
-    "Sem1/MA1220/Images/image46.png",
-    "Sem1/MA1220/Images/image45.png",
-    "Sem1/MA1220/Images/image44.png",
-    "Sem1/CS1010/Notes/Induction/induction.pdf",
-    "Sem1/LA1760/Practice/Adobe Scan Sep 04, 2026 (1).xopp~",
-    "Sem1/LA1760/Practice/Adobe Scan Sep 04, 2026 (1).xopp",
-    "Sem1/LA1760/Notes/AI_Generated_Quiz1_Guide.xopp~",
-    "Sem1/LA1760/Notes/AI_Generated_Quiz1_Guide.pdf",
-    "Sem1/LA1760/Notes/AI_Generated_Quiz1_Guide.xopp",
-    "Sem1/LA1760/Lecture Content/LastYearSlides/L10.pdf",
-    "Sem1/LA1760/Lecture Content/LastYearSlides/L9.pdf",
-    "Sem1/EP1108/About.md",
-    "Sem1/CS1010/Notes/Generating Functions.md",
-    "Sem1/CS1010/Notes/Mathematical Structures/1. Sets.md",
+    "Sem1/EP1108/Notes/Part 1/Atomic Structure.pdf",
+    "Sem1/EP1108/Notes/Part 2/De Broglie Wavelength.md",
+    "Sem1/CS1010/Notes/Counting/2. Pigeonhole Principle.md",
+    "Sem1/CS1010/Images/image139.png",
+    "Sem1/CS1010/Images/image138.png",
+    "Sem1/CS1010/Images/image137.png",
+    "Sem1/CS1010/Images/image136.png",
+    "Sem1/CS1010/Images/image135.png",
+    "Sem1/CS1010/Images/image134.png",
+    "Sem1/CS1010/Images/image133.png",
+    "Sem1/CS1010/Notes/Counting/1. Introduction.md",
+    "Sem1/CS1010/Images/image132.png",
+    "Sem1/CS1010/Images/image131.png",
     "Sem1/CS1010/Notes/Induction/2. Recurrence Relations.md",
+    "Sem1/CS1010/Notes/Counting.md",
+    "Sem1/CS1010/Notes/Counting",
+    "Sem1/CS1010/Notes/Generating Functions.md",
+    "Sem1/CS1010/Images/image130.png",
     "Sem1/CS1010/Notes/Induction/1. Induction.md",
+    "Sem1/CS1010/Notes/Induction/induction.xopp~",
+    "Sem1/MA1220/Notes/3. Improper Integrals.md",
+    "Sem1/MA1220/Practice/ps2.xopp~",
+    "Sem1/MA1220/Notes/1. Riemann Sum.md",
+    "Sem1/MA1220/Practice/Lecture Slide Problems.md",
+    "Sem1/CS1010/Lecture Slides/CS1010_ Discrete Mathematics for Computer Science - course outline.pdf",
+    "Sem1/Courses.md",
+    "Sem1/MA1220/Notes/5. Directional Derivative.md",
+    "Sem1/MA1220/Notes/6. Local Maxima and Minima.md",
+    "Sem1/EP1108/Notes/Part 2/Electromagnetic Waves.md",
+    "Sem1/MA1220/Lecture Slides/lecture10.pdf",
+    "Sem1/MA1220/Notes/4. Multivariable Functions.md",
+    "Sem1/EP1108/Notes/Part 2/X Rays.md",
+    "Untitled.md",
+    "Sem1/EP1108/Lecture Slides/Part2/lecture3 - lecture3.pdf",
+    "Sem1/EP1108/Lecture Slides/Part2/lecture4n5 - lecture4.pdf",
+    "Sem1/EP1108/Lecture Slides/Part2/EMW - lecture1n2 - lecture1n2.pdf",
+    "Sem1/CS1010/Lecture Slides/Counting/generating functions - Day 1-2.pdf",
+    "Sem1/EP1108/Lecture Slides/Part1/Chapter 4 - Atomic Structure-2026.pdf",
+    "Sem1/EP1108/Notes/Part 1/Quantum Mechanics.md",
+    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
+    "Sem1/EP1108/Notes/Part 1/Hydrogen Atom.md",
+    "Sem1/EP1108/About.md",
+    "Sem1/CS1010/Notes/Mathematical Structures/1. Sets.md",
     "Sem1/CS1010/Notes/Number Theory/1. Introduction.md",
     "Sem1/CS1010/Notes/Number Theory/2. Bases and Binary.md",
-    "Sem1/CS1010/Notes/Number Theory/4. Linear Congruences.md",
-    "Sem1/CS1010/Notes/Number Theory/3. GCD.md",
-    "Sem1/EP1108/Notes/Part 1/Quantum Mechanics.md",
-    "Sem1/MA1220/Notes/3. Improper Integrals.md",
-    "Sem1/ID1063/About.md",
-    "Sem1/CY1010/Notes/Lecture 7.md",
-    "Sem1/CY1010/Notes/Lecture 6.md",
-    "Sem1/CY1010/Notes/Lecture 5.md",
-    "Sem1/CY1010/Notes/Lecture 4.md",
-    "Sem1/CY1010/Notes/Lecture 3.md",
-    "Sem1/CY1010/Notes/Lecture 2.md",
-    "Sem1/CY1010/Notes/Lecture 1.md",
-    "Sem1/EP1108/Notes/Part 2/Electromagnetic Waves.md",
-    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
-    "Sem1/MA1220/Notes/1. Riemann Sum.md",
-    "Sem1/MA1110/Notes/1. Introduction.md",
-    "Sem1/MA1110/Notes/1. Introduction.pandoc.md"
+    "Sem1/CS1010/Notes/Number Theory/4. Linear Congruences.md"
   ]
 }

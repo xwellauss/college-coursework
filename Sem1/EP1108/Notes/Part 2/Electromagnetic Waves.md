@@ -1,5 +1,5 @@
 ### Wave Nature of Light
-![image55](Sem1/EP1108/Images/image55.png)
+`![image55](Sem1/EP1108/Images/image55.png)
 
 ![image56](Sem1/EP1108/Images/image56.png)
 
