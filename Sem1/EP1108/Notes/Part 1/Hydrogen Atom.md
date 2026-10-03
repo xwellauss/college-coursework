@@ -54,39 +54,45 @@ https://winter.group.shef.ac.uk/orbitron/atomic_orbitals/1s/index.html
 
 ![image120](Sem1/EP1108/Images/image120.png)
 
-![image121](image121.png)
+![image121](Sem1/EP1108/Images/image121.png)
 
-![image122](image122.png)
+![image122](Sem1/EP1108/Images/image122.png)
 
-![image123](image123.png)
+![image123](Sem1/EP1108/Images/image123.png)
 
 ### Selection Rules
-![image124](image124.png)
+![image124](Sem1/EP1108/Images/image124.png)
 
-![image125](image125.png)
+![image125](Sem1/EP1108/Images/image125.png)
 
-![image126](image126.png)
+![image126](Sem1/EP1108/Images/image126.png)
 
 *2s is a metastable state for hydrogen atom*
-
-![image127](image127.png)
+x
+![image127](Sem1/EP1108/Images/image127.png)
 
 **Zeeman Effect**
-![image128](image128.png)
+![image128](Sem1/EP1108/Images/image128.png)
 
-![image129](image129.png)
+![image129](Sem1/EP1108/Images/image129.png)
 
-![image135](image135.png)
+![image135](Sem1/EP1108/Images/image135.png)
 
-![image130](image130.png)
+![image130](Sem1/EP1108/Images/image130.png)
 
-![image131](image131.png)
+![image131](Sem1/EP1108/Images/image131.png)
 
-![image132](image132.png)
+![image132](Sem1/EP1108/Images/image132.png)
 
-![image133](image133.png)
+![image133](Sem1/EP1108/Images/image133.png)
 
 ### Stern-Gerlach Experiment
-![image134](image134.png)
+![image134](Sem1/EP1108/Images/image134.png)
 
-![image136](image136.png)
+![image136](Sem1/EP1108/Images/image136.png)
+
+![image156](image156.png)
+
+If we send H atoms where electron are in ground state, that is orbital angular  momentum is 0, we expect all atoms to be concentrate around centre. 
+
+![image157](image157.png)
