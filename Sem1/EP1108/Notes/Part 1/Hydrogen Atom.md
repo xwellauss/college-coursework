@@ -1,4 +1,4 @@
-![image95](Sem1/EP1108/Images/image95.png)
+z![image95](Sem1/EP1108/Images/image95.png)
 
 https://planetmath.org/DerivationOfTheLaplacianFromRectangularToSphericalCoordinates
 

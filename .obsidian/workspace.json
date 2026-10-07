@@ -4,177 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "0a6e64617f5b0848",
+        "id": "ab9b4f1e4201efec",
         "type": "tabs",
         "children": [
           {
-            "id": "f835897c7e135e02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/EP1108/Notes/Part 1/Hydrogen Atom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hydrogen Atom"
-            }
-          },
-          {
-            "id": "65d35a3cf9f65593",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1220/Notes/3. Improper Integrals.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Improper Integrals"
-            }
-          },
-          {
-            "id": "d5420724c2bd5773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1220/Notes/4. Multivariable Functions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Multivariable Functions"
-            }
-          },
-          {
-            "id": "af8266544fb0468b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1110/Notes/1. Introduction.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Introduction"
-            }
-          },
-          {
-            "id": "63061369ed93cc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1110/Notes/4. Limits and Continuity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Limits and Continuity"
-            }
-          },
-          {
-            "id": "d247eadd977686d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1220/Notes/6. Local Maxima and Minima.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "6. Local Maxima and Minima"
-            }
-          },
-          {
-            "id": "a2350a7b28d7a135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1220/Notes/5. Directional Derivative.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Directional Derivative"
-            }
-          },
-          {
-            "id": "f72e4a418a273e7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1110/Notes/5. Differentiability.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Differentiability"
-            }
-          },
-          {
-            "id": "bd747156f3ffe6d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1220/Notes/7. Lagrange Multipliers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Lagrange Multipliers"
-            }
-          },
-          {
-            "id": "8a74d2ce4c640823",
+            "id": "0363a0a16ac01c5c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/MA1220/Practice/ps2.pdf",
-                "page": 1,
+                "file": "Sem1/ID1063/Shared/Four_practice_problems.pdf",
+                "page": 2,
                 "left": -13,
-                "top": 526,
-                "zoom": 1.151566668234567
+                "top": 816,
+                "zoom": 1.1767658543370498
               },
               "icon": "lucide-file-text",
-              "title": "ps2"
-            }
-          },
-          {
-            "id": "fd46b5849708ea07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/MA1220/Practice/Lecture Slide Problems.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lecture Slide Problems"
+              "title": "Four_practice_problems"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.078125
+    "width": 249.72982788085938
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -342,53 +191,53 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fd46b5849708ea07",
+  "active": "0363a0a16ac01c5c",
   "lastOpenFiles": [
-    "Sem1/MA1220/Practice/ps1_solns.pdf",
-    "Sem1/MA1220/Practice/Lecture Slide Problems.md",
-    "Sem1/MA1220/Practice/ps2-solns.pdf",
-    "Sem1/MA1220/Practice/ps2.pdf",
-    "Sem1/MA1220/Practice/ps3.pdf",
-    "Sem1/MA1220/Notes/3. Improper Integrals.md",
-    "Sem1/MA1220/Notes/4. Multivariable Functions.md",
-    "Sem1/MA1220/Notes/6. Local Maxima and Minima.md",
-    "Sem1/MA1110/Notes/4. Limits and Continuity.md",
-    "Sem1/MA1220/Practice/PYQ/ma1220-paper-solutions-2023.xopp~",
-    "Sem1/MA1220/Notes/2. Areas and Volumes.md",
-    "Sem1/MA1220/Practice/PYQ/ma1220-2023-questions-only.pdf",
-    "Sem1/MA1220/Practice/PYQ/ma1220-paper-solutions-2023.xopp",
-    "Sem1/MA1220/Practice/PYQ/ma1220-question-paper-2022.xopp~",
-    "Sem1/MA1220/Practice/PYQ/ma1220-question-paper-2022.xopp",
-    "Sem1/MA1110/Notes/1. Introduction.md",
-    "Sem1/MA1220/Notes/5. Directional Derivative.md",
-    "Sem1/MA1220/Practice/PYQ/Endsem.xopp~",
-    "Sem1/MA1110/Notes/5. Differentiability.md",
-    "Sem1/MA1220/Practice/PYQ/Endsem.xopp",
-    "Sem1/MA1220/Notes/1. Riemann Sum.md",
-    "Sem1/MA1220/Notes/7. Lagrange Multipliers.md",
-    "Sem1/MA1220/About.md",
-    "Sem1/EP1108/Notes/Part 1/Hydrogen Atom.md",
-    "Sem1/MA1220/Images/image87.png",
-    "Sem1/MA1220/Images/image86.png",
-    "Sem1/MA1220/Images/image85.png",
-    "Sem1/MA1220/Images/image84.png",
-    "Sem1/MA1220/Images/image83.png",
-    "Sem1/MA1220/Images/image82.png",
-    "Sem1/MA1220/Images/image81.png",
-    "Sem1/MA1220/Images/image80.png",
-    "Sem1/MA1220/Images/image79.png",
-    "Sem1/MA1220/Images/image78.png",
-    "Sem1/EP1108/Notes/Part 2/Electron Spin.md",
-    "Sem1/EP1108/Notes/Part 2/De Broglie Wavelength.md",
-    "Sem1/EP1108/Notes/Part 1/Quantum Mechanics.md",
-    "Sem1/EP1108/About.md",
-    "Sem1/LA1760/About.md",
-    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
-    "Sem1/CS1010/Notes/Number Theory/5. Cryptography.md",
+    "Sem1/ID1063/Lab/Lab4/lab4-advancedProblems/Prog-AdvancedProblems.pdf",
+    "Sem1/ID1063/Shared/ITP_Ref_Sheet.pdf",
+    "Sem1/BT1010/About.md",
+    "Sem1/ID1063/Shared/Four_practice_problems.pdf",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L1+L2.pdf",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L3+L4+L5.pdf",
+    "Sem1/CY1010/Lecture Slides/Exam2/PowerPoint Presentation - 4th class.pdf",
+    "Sem1/CY1010/Notes/Exam1/Lecture 1.md",
+    "Sem1/CY1010/Notes/Exam1/Lecture 2.md",
+    "Sem1/CY1010/Notes/Exam1/Lecture 2 Annotated.xopp",
+    "Sem1/CY1010/Notes/Exam1/Lecture 3.md",
+    "Sem1/CY1010/Notes/Exam1/Lecture 3 Annotated.xopp",
+    "Sem1/CY1010/Notes/Exam1/Lecture 4.md",
+    "Sem1/CY1010/Notes/Exam1/Lecture 4 Annotated.xopp",
+    "Sem1/CY1010/Notes/Exam1/Lecture 5.md",
+    "Sem1/CY1010/Notes/Exam1/Lecture 5 Annotated.xopp",
+    "Sem1/CY1010/Notes/Exam1/Lecture 6.md",
+    "Sem1/CY1010/Notes/Exam1/Lecture 6 Annotated.xopp",
+    "Sem1/CY1010/Notes/Exam1/Lecture 7.md",
+    "Sem1/CY1010/AI/Exam1/Past Year Papers Insight Exam 1.md",
+    "Sem1/CY1010/AI/Exam1/CY1010_Exam1_StudyGuide.md",
+    "Sem1/CS1010/Notes/Counting/4. Probability.md",
+    "Sem1/CS1010/Notes/Counting/3. PnC.md",
+    "Sem1/CS1010/Images/image157.png",
+    "Sem1/CS1010/Images/image156.png",
+    "Sem1/CS1010/Images/image155.png",
+    "Sem1/CS1010/Images/image154.png",
+    "Sem1/CS1010/Images/image153.png",
+    "Sem1/CS1010/Images/image152.png",
+    "Sem1/CS1010/Images/image151.png",
+    "Sem1/CS1010/Images/image150.png",
+    "Sem1/CS1010/Images/image149.png",
+    "Sem1/CS1010/Images/image148.png",
     "Sem1/CS1010/Notes/Counting/2. Pigeonhole Principle.md",
-    "Sem1/CS1010/Notes/Counting/1. Introduction.md",
-    "Sem1/CS1010/Notes/Induction/2. Recurrence Relations.md",
-    "Sem1/CS1010/Notes/Counting.md",
-    "Sem1/CS1010/Notes/Generating Functions.md"
+    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
+    "Sem1/EP1108/Notes/Part 1/Quantum Mechanics.md",
+    "Sem1/EP1108/Notes/Part 1/Hydrogen Atom.md",
+    "Sem1/EP1108/About.md",
+    "Sem1/EP1108/Notes/Part 2/De Broglie Wavelength.md",
+    "Sem1/EP1108/Notes/Part 2/Electromagnetic Waves.md",
+    "Sem1/EP1108/Notes/Part 2/Electron Spin.md",
+    "Sem1/EP1108/Notes/Part 2/X Rays.md",
+    "Sem1/MA1220/Notes/3. Improper Integrals.md",
+    "Sem1/MA1220/Practice/Lecture Slide Problems.md",
+    "Sem1/MA1220/Notes/7. Lagrange Multipliers.md",
+    "Sem1/MA1110/Notes/5. Differentiability.md"
   ]
 }

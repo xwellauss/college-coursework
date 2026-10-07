@@ -4,13 +4,13 @@
 - When an electron passes close to a positively charged nucleus, the electric field of the nucleus attracts it and bends its trajectory. Therefore, the velocity of the electron changes. As it moves away from the nucleus, the attractive force can also slow it down.
 - An accelerating charged particle emits electromagnetic radiation. Therefore, these energetic electrons can emit electromagnetic radiation while interacting with the nuclei of the anode.
 - But we do not observe only photons of 50 keV. An electron does not usually transfer all of its kinetic energy to a single photon. For example, it might emit a 5 keV photon and retain approximately 45 keV, or it might emit a 20 keV photon and retain approximately 30 keV. 
-- ![image137](image137.png)
+- ![image137](Sem1/EP1108/Images/image137.png)
 - The electrons are accelerated by the electric field throughout the tube, so in principle an accelerating charge can radiate even before reaching the anode. However, this radiation is extremely weak compared with the radiation produced when the electrons encounter the very strong and rapidly varying electric fields near the nuclei in the anode. 
 
 ### Diffraction
-![image138](image138.png)
+![image138](Sem1/EP1108/Images/image138.png)
 
-![image139](image139.png)
+![image139](Sem1/EP1108/Images/image139.png)
 
 ![image140](image140.png)
 

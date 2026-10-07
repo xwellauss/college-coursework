@@ -1,7 +1,7 @@
 
-We need something that contains enough  information to predict the probabilities of  different measurement outcomes.  The wave function The wave function describes the quantum state. 
+We need something that contains enough  information to predict the probabilities of  different measurement outcomes.  The wave function describes the quantum state. 
 
-The theory does not assign one definite  Newtonian trajectory and then hide it from us. It  evolves a quantum state, from which  probabilities of measurement outcomes are  obtained. 
+The theory does not assign one definite Newtonian trajectory and then hide it from us. It  evolves a quantum state, from which  probabilities of measurement outcomes are  obtained. 
 
 ![image154](image154.png)
 
