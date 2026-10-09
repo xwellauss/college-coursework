@@ -40,7 +40,3 @@
  - 41-50   C
  - 31-40   C-
  - 21-30   D
-
-### Lectures
-1. [[Sem1/CY1010/Notes/Lecture 1|Lecture 1]]
-2. [[Sem1/CY1010/Notes/Lecture 2|Lecture 2]]

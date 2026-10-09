@@ -11,16 +11,15 @@
             "id": "858d40107d38eddb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L1+L2.pdf",
-                "page": 1,
-                "left": -21,
-                "top": 543,
-                "zoom": 0.7296875
+                "file": "Sem1/CY1010/About.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "CY1010_Part4_Annadhasan_L1+L2"
+              "icon": "lucide-file",
+              "title": "About"
             }
           }
         ]
@@ -193,12 +192,18 @@
   },
   "active": "6dc253017b052ba3",
   "lastOpenFiles": [
-    "Sem1/MA1220/Exam/MA1220_Final_Exam_Answer_Key.pdf",
-    "Sem1/CY1010/Exams",
-    "Sem1/MA1110/Exam/answerkey.pdf",
-    "Sem1/MA1110/Exam/final-exam.pdf",
+    "Sem1/CY1010/Practice/envchem2.xopp",
+    "Sem1/CY1010/Practice/envchem2.pdf",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L3+L4+L5.xopp~",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L1+L2.pdf",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L3+L4+L5.xopp",
+    "Sem1/CY1010/AI/Exam2/CY1010_L3L4L5_Explained.pdf",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L1+L2.xopp~",
+    "Sem1/CY1010/Lecture Slides/Exam2/CY1010_Part4_Annadhasan_L1+L2.xopp",
+    "Sem1/CY1010/Lecture Slides/Exam2/KN_Organic chemicals in environment_Class 4.xopp~",
+    "Sem1/CY1010/Lecture Slides/Exam2/KN_Organic chemicals in environment_Class 4.xopp",
+    "Sem1/CY1010/Notes/Exam2/KN_Organic chemicals in environment_Class 1-3.xopp~",
     "Sem1/CS1010/Notes/Counting/4. Probability.md",
-    "Sem1/MA1220/Exam",
     "Sem1/CS1010/Images/image212.png",
     "Sem1/CS1010/Images/image211.png",
     "Sem1/CS1010/Images/image210.png",
@@ -209,13 +214,7 @@
     "Sem1/CS1010/Images/image205.png",
     "Sem1/CS1010/Images/image204.png",
     "Sem1/CS1010/Images/image203.png",
-    "Sem1/CS1010/Lecture Slides/Counting/CS1010 Discrete Mathematics for Computer Science - probability4.pdf",
-    "Sem1/CS1010/Lecture Slides/Counting/CS1010 Discrete Mathematics for Computer Science - probability3.pdf",
     "Sem1/CS1010/Notes/Counting/3. PnC.md",
-    "Sem1/CY1010/Notes/Exam2/KN_Organic chemicals in environment_Class 1-3.xopp~",
-    "Sem1/ID1063/Notes/AI_Generated_Summary.pdf",
-    "Sem1/ID1063/Shared/Four_practice_problems.pdf",
-    "Sem1/CY1010/Notes/Exam2/KN_Organic chemicals in environment_Class 1-3.xopp",
     "Sem1/BT1010/About.md",
     "Sem1/CY1010/Notes/Exam1/Lecture 1.md",
     "Sem1/CY1010/Notes/Exam1/Lecture 2.md",
