@@ -28,6 +28,7 @@
 ### References
 - [[RosenDiscreteMath8Ed.pdf|Rosen Discreet Math]]
 - [[mcs.pdf|Math for CS]]
+- [DiesGrap](DiesGrap.pdf)
 - [MIT OCW 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 
 #### [[1. Propositions and Predicates]]
