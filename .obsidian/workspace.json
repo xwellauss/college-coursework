@@ -8,32 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29bef7f60cf0e24a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/CS1010/Lecture Slides/Graph Theory/graph theory - Day 2-3.pdf",
-                "page": 3,
-                "left": -55,
-                "top": 574,
-                "zoom": 1.3
-              },
-              "icon": "lucide-file-text",
-              "title": "graph theory - Day 2-3"
-            }
-          },
-          {
             "id": "571f65effc85d4bd",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Sem1/CS1010/References/DiesGrap.pdf",
-                "page": 20,
-                "left": -7,
-                "top": 14,
-                "zoom": 2.0210756310171383
+                "page": 12,
+                "left": -9,
+                "top": 383,
+                "zoom": 1.613105127796618
               },
               "icon": "lucide-file-text",
               "title": "DiesGrap"
@@ -98,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.23828125,
-    "collapsed": true
+    "width": 239.23828125
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -208,10 +191,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "29bef7f60cf0e24a",
+  "active": "571f65effc85d4bd",
   "lastOpenFiles": [
-    "Sem1/CS1010/References/DiesGrap.pdf",
+    "Sem1/LA1760/Exams/LA1760-Srirupa-Quiz2n1.pdf",
     "Sem1/CS1010/Lecture Slides/Graph Theory/graph theory - Day 2-3.pdf",
+    "Sem1/CS1010/References/DiesGrap.pdf",
     "Sem1/ID1063/About.md",
     "Sem1/ID1063/Lecture Slides/Week1.pdf",
     "Sem1/MA1130/About.md",
@@ -223,7 +207,6 @@
     "Sem1/BT1010/Lecture Slides/Lecture 5_Techniques used in cell and Molecular biology_06-11-2025.pptx.pdf",
     "Sem1/BT1010/Lecture Slides/Lecture 1_Intro to lifesciences_Biomolecules-Carbohydrates and Lipids.pptx",
     "Sem1/BT1010/Lecture Slides/Lecture 2_Biomolecules-Proteins and enzymes_27-10-2025.pptx",
-    "Sem1/BT1010/Lecture Slides/Lecture 3_DNA based Information Technologies_29-10-2025.pptx",
     "Untitled.md",
     "Sem1/CS1010/About.md",
     "Sem1/CS1010/Notes/Counting/4. Probability.md",
