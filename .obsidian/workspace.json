@@ -13,14 +13,14 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/CS1010/Lecture Slides/Graph Theory/graph theory - Day 2-3.pdf",
-                "page": 5,
-                "left": -13,
-                "top": 55,
-                "zoom": 1.1891778523489933
+                "file": "Sem1/BT1010/Lecture Slides/Lecture 1_Intro to lifesciences_Biomolecules-Carbohydrates and Lipids.pptx.pdf",
+                "page": 24,
+                "left": -20,
+                "top": 440,
+                "zoom": 0.73828125
               },
               "icon": "lucide-file-text",
-              "title": "graph theory - Day 2-3"
+              "title": "Lecture 1_Intro to lifesciences_Biomolecules-Carbohydrates and Lipids.pptx"
             }
           }
         ]
@@ -193,22 +193,25 @@
   },
   "active": "571f65effc85d4bd",
   "lastOpenFiles": [
-    "Sem1/MA1130/Lecture Slides/MA1130 Note.pdf",
-    "Sem1/CS1010/Exams/exam1-solutions",
-    "Sem1/ID1063/Lecture Slides/Week1.pdf",
-    "Sem1/CS1010/Exams/exam1-answer-copy.pdf",
+    "Sem1/CS1010/Practice/Exam3/graph-theory.pdf",
+    "Sem1/CS1010/Practice/Exam3",
     "Sem1/CS1010/References/DiesGrap.pdf",
-    "Sem1/LA1760/Exams/LA1760-Srirupa-Quiz2n1.pdf",
-    "Sem1/CS1010/Lecture Slides/Graph Theory/graph theory - Day 2-3.pdf",
-    "Sem1/ID1063/About.md",
-    "Sem1/MA1130/About.md",
     "Sem1/BT1010/Lecture Slides/Lecture 1_Intro to lifesciences_Biomolecules-Carbohydrates and Lipids.pptx.pdf",
-    "Sem1/BT1010/About.md",
-    "Sem1/BT1010/Lecture Slides/Lecture 2_Biomolecules-Proteins and enzymes_27-10-2025.pptx.pdf",
-    "Sem1/BT1010/Lecture Slides/Lecture 3_DNA based Information Technologies_29-10-2025.pptx.pdf",
-    "Sem1/BT1010/Lecture Slides/Lecture 4_Cell Organelles and Nuclear Architecture_4-11-2025.pptx.pdf",
-    "Untitled.md",
+    "Sem1/EP1108/Lecture Slides/ModPhysics_CourseIntro - ModPhysics_CourseIntro.pdf",
+    "Sem1/EP1108/Practice/MidSem/modern_physics_end_sem.pdf",
+    "Sem1/EP1108/Practice/MidSem/MP Final Exam 2020.pdf",
+    "Sem1/EP1108/Practice/MidSem/MP2.pdf",
+    "Sem1/EP1108/Practice/MidSem/mp1e.pdf",
+    "Sem1/EP1108/Practice/MidSem/ep1108-mid-sem-2024.pdf",
+    "Sem1/EP1108/Practice/MidSem/EP1108 Modern Physics - Exam 1.pdf",
+    "Sem1/EP1108/About.md",
     "Sem1/CS1010/About.md",
+    "Sem1/CS1010/Notes/Logic/1. Propositions and Predicates.md",
+    "Sem1/MA1130/About.md",
+    "Sem1/MA1220/About.md",
+    "Sem1/ID1063/About.md",
+    "Sem1/BT1010/About.md",
+    "Untitled.md",
     "Sem1/CS1010/Notes/Counting/4. Probability.md",
     "Sem1/CS1010/Notes/Counting/2. Pigeonhole Principle.md",
     "Sem1/CS1010/Notes/Counting/3. PnC.md",
@@ -235,9 +238,6 @@
     "Sem1/CY1010/Notes/Exam1/Lecture 7.md",
     "Sem1/CY1010/AI/Exam1/Past Year Papers Insight Exam 1.md",
     "Sem1/CY1010/AI/Exam1/CY1010_Exam1_StudyGuide.md",
-    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md",
-    "Sem1/EP1108/Notes/Part 1/Quantum Mechanics.md",
-    "Sem1/EP1108/Notes/Part 1/Hydrogen Atom.md",
-    "Sem1/EP1108/About.md"
+    "Sem1/EP1108/Notes/Part 1/Atomic Structure.md"
   ]
 }

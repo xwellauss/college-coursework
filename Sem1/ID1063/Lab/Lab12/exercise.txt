@@ -1,0 +1,43 @@
+Lab 12 Exercises
+
+1. Write a structure called date, which has 3 fields:
+day, month, year.
+Write a function called tomorrow that increments the date by 1.
+
+Have THREE versions of this function:
+one that returns the new date as a separate struct object;
+one that changes the value of the date that is being passed;
+one that dynamically allocates memory to a struct object and returns its address.
+
+Accept a date from a user in the main function, and print the date of the next day,
+using each of the three functions.
+
+2. Write a structure called Element that has 4 values:
+atomic number, name of the element, symbol, and atomic mass.
+
+(a) Create an Element array of size 112 in main().
+(b) Define an elementInfo array as in the file chemicalElements.txt
+Read values into the Element array using the elementInfo array .
+(c) Create a function that accepts an atomic number n from the user and prints 
+the name, symbol, and atomic mass using the Element array from (b).
+(d) Create a function that accepts the symbol of an Element as a string,
+and returns the corresponding atomic mass.
+
+(e) Create a structure called Molecule with the following two values:
+name and formula. The former may be an empty string.
+(f) Write a function that accepts a name and formula from the user,
+and returns a Molecule corresponding to that input.
+
+(g) [Optional:]
+Write a function that accepts a Molecule and the Element array, 
+and returns the molecular mass. 
+Use the function from (d). 
+Assume the formula contains only element symbols, 
+each optionally followed by a positive integer count—
+for example, H2O, NaCl, or C12H22O11. 
+Parentheses and charges need not be supported.
+
+3. Write a recursive function that accepts an array A of double values,
+and an index n, and returns the largest value in A[0],...,A[n].
+
+4. Testing and debugging.
