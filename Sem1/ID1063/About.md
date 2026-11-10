@@ -9,7 +9,7 @@
 Introduction to the C language; compilation and print statements.  
 Variables, input, and assignment statements.  
 Conditional statements (if...then...else); Iterations (while and for loops).  
-Arrays, Functions, Pointers, File handling.  
+Arrays, Functions, Pointers, File handling.
 Problem-solving.
 
 ---

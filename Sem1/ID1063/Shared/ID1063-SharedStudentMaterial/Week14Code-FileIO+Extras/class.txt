@@ -1,0 +1,8 @@
+101 Asha 72.5
+102 Ravi 88.0
+103 Meera 96.5
+104 Kiran 34.0
+105 Divya 91.0
+106 Arjun 39.5
+this line is not a record
+107 Fatima 58.0

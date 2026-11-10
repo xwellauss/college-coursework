@@ -8,24 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e255872b75f4fd30",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/MA1130/Lecture Slides/MA1130 Note.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 353,
-                "zoom": 1.1213235294117647
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "MA1130 Note"
-            }
-          },
-          {
             "id": "e3e533006dab3c75",
             "type": "leaf",
             "pinned": true,
@@ -35,7 +17,7 @@
                 "file": "Sem1/MA1130/References/VectorCalculus.pdf",
                 "page": 1,
                 "left": -13,
-                "top": 422,
+                "top": 425,
                 "zoom": 1.1213235294117647
               },
               "pinned": true,
@@ -44,23 +26,157 @@
             }
           },
           {
+            "id": "3621fe4dd8260f95",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/CS1010/Notes/secret-notes.pdf",
+                "page": 61,
+                "left": 9,
+                "top": 375,
+                "zoom": 1.3
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "secret-notes"
+            }
+          },
+          {
+            "id": "a0754768f18a164f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/MA1130/Lecture Slides/lecture-notes.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 728,
+                "zoom": 1.1115196078431373
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "lecture-notes"
+            }
+          },
+          {
             "id": "a7615cb6a3b12076",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
                 "file": "Sem1/MA1130/Practice/MA1130 Vector Calculus – Solutions to Assignments 1 & 2.pdf",
-                "page": 10,
-                "left": -10,
-                "top": 771,
-                "zoom": 1.4917349818572774
+                "page": 3,
+                "left": -11,
+                "top": 448,
+                "zoom": 1.1528188415535547
               },
+              "pinned": true,
               "icon": "lucide-file-text",
               "title": "MA1130 Vector Calculus – Solutions to Assignments 1 & 2"
             }
+          },
+          {
+            "id": "9e9ceb7282e50ebe",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/CS1010/Notes/Graph Theory/hall_marriage_exam_kit.pdf",
+                "page": 2,
+                "left": -14,
+                "top": 826,
+                "zoom": 1.142747229856403
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "hall_marriage_exam_kit"
+            }
+          },
+          {
+            "id": "b0ebe29bb9b201fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/ID1063/Notes/ID1063 Endsem Theory Study Guide.pdf",
+                "page": 13,
+                "left": -13,
+                "top": 480,
+                "zoom": 1.1115196078431373
+              },
+              "icon": "lucide-file-text",
+              "title": "ID1063 Endsem Theory Study Guide"
+            }
+          },
+          {
+            "id": "c6802ae0ab20a9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem1/CS1010/About.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "About"
+            }
+          },
+          {
+            "id": "3b6c363674974a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sem1/ID1063/Exams/Midsem Theory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Midsem Theory"
+            }
+          },
+          {
+            "id": "4d6d6d87a9f9868f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/CS1010/Practice/exam3 2025.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 239,
+                "zoom": 1.1413590604026846
+              },
+              "icon": "lucide-file-text",
+              "title": "exam3 2025"
+            }
+          },
+          {
+            "id": "1ec87df31e5f1eda",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/ID1063/Lecture Slides/Week13-1.pdf",
+                "page": 3,
+                "left": -20,
+                "top": 21,
+                "zoom": 0.7993537015276146
+              },
+              "icon": "lucide-file-text",
+              "title": "Week13-1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.208984375,
-    "collapsed": true
+    "width": 276.59832763671875
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -229,19 +344,24 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a7615cb6a3b12076",
+  "active": "b0ebe29bb9b201fd",
   "lastOpenFiles": [
-    "Sem1/CY1010/Exams/cy1010-exam1.pdf",
-    "Sem1/CY1010/Exams/cy1010-exam1-2.pdf",
-    "Sem1/MA1130/Practice/Assignment 1.xopp~",
-    "Sem1/MA1130/Practice/Assignment 1.pdf",
-    "Sem1/MA1130/Practice/MA1130 Vector Calculus – Solutions to Assignments 1 & 2.pdf",
-    "Sem1/MA1130/Practice/Assignment 2.xopp",
-    "Sem1/MA1130/Practice/Assignment 1.xopp",
-    "Sem1/MA1130/References/VectorCalculus.pdf",
-    "Sem1/MA1130/Lecture Slides/MA1130 Note.pdf",
-    "Sem1/BT1010/Lecture Slides/Lecture 1_Intro to lifesciences_Biomolecules-Carbohydrates and Lipids.pptx.pdf",
-    "Sem1/BT1010/Lecture Slides/Lecture 5_Techniques used in cell and Molecular biology_06-11-2025.pptx.xopp~",
+    "Sem1/ID1063/Lab/Lab14/A.c~",
+    "Sem1/ID1063/Lab/Lab14/matrix.txt~",
+    "Sem1/ID1063/Lab/Lab14/A",
+    "Sem1/ID1063/Lab/Lab14/A.c",
+    "Sem1/ID1063/Lab/Lab14/matrix.txt",
+    "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
+    "Sem1/ID1063/Lab/Lab14",
+    "Sem1/ID1063/Notes/ITP_Endsem_Theory_Cheatsheet.pdf",
+    "Sem1/ID1063/Lecture Slides/Week14-2.pdf",
+    "Sem1/ID1063/Lecture Slides/Week13-2.pdf",
+    "Sem1/ID1063/Lecture Slides/Week14-1.pdf",
+    "Sem1/CS1010/About.md",
+    "Sem1/ID1063/About.md",
+    "Sem1/ID1063/Exams/Midsem Theory.md",
+    "Sem1/ID1063/Shared/ID1063-SharedStudentMaterial/Lab13-RecursionAndFileHandling/LabThirteen-FileHandling/redSanta.bmp",
+    "Untitled.md",
     "Sem1/LA1760/Lecture Content/Part2/Exam2.md",
     "Sem1/CS1000/About.md",
     "Sem1/CS1000/Final.md",
@@ -257,15 +377,11 @@
     "Sem1/LA1760/Lecture Content/Part2/images/WhatsApp Image 2026-11-03 at 2.51.33 PM (1).jpeg",
     "Sem1/LA1760/Lecture Content/Part2/images/WhatsApp Image 2026-11-03 at 2.51.33 PM (2).jpeg",
     "Sem1/LA1760/Lecture Content/Part2/images/WhatsApp Image 2026-11-03 at 2.51.34 PM.jpeg",
-    "Sem1/LA1760/Lecture Content/Part2/images/WhatsApp Image 2026-11-03 at 2.51.35 PM.jpeg",
     "Sem1/EP1108/About.md",
     "Sem1/BT1010/About.md",
-    "Sem1/CS1010/About.md",
     "Sem1/CS1010/Notes/Logic/1. Propositions and Predicates.md",
     "Sem1/MA1130/About.md",
     "Sem1/MA1220/About.md",
-    "Sem1/ID1063/About.md",
-    "Untitled.md",
     "Sem1/CS1010/Notes/Counting/4. Probability.md",
     "Sem1/CS1010/Notes/Counting/2. Pigeonhole Principle.md",
     "Sem1/CS1010/Notes/Counting/3. PnC.md",
@@ -275,7 +391,6 @@
     "Sem1/CY1010/About.md",
     "Sem1/CY1010/Notes/Exam1/Lecture 1.md",
     "Sem1/CY1010/Notes/Exam1/Lecture 2.md",
-    "Sem1/CY1010/Notes/Exam1/Lecture 3.md",
-    "Sem1/CY1010/Notes/Exam1/Lecture 4.md"
+    "Sem1/CY1010/Notes/Exam1/Lecture 3.md"
   ]
 }

@@ -30,3 +30,4 @@
 - [[mcs.pdf|Math for CS]]
 - [DiesGrap](DiesGrap.pdf)
 - [MIT OCW 6.042J](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+- https://www.youtube.com/watch?v=3oTeLn465y0
