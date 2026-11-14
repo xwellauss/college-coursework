@@ -16,31 +16,13 @@
               "state": {
                 "file": "Sem1/MA1130/References/VectorCalculus.pdf",
                 "page": 1,
-                "left": -13,
-                "top": 425,
+                "left": -11,
+                "top": 428,
                 "zoom": 1.1213235294117647
               },
               "pinned": true,
               "icon": "lucide-file-text",
               "title": "VectorCalculus"
-            }
-          },
-          {
-            "id": "3621fe4dd8260f95",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/CS1010/Notes/secret-notes.pdf",
-                "page": 61,
-                "left": 9,
-                "top": 375,
-                "zoom": 1.3
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "secret-notes"
             }
           },
           {
@@ -53,8 +35,8 @@
                 "file": "Sem1/MA1130/Lecture Slides/lecture-notes.pdf",
                 "page": 1,
                 "left": -13,
-                "top": 728,
-                "zoom": 1.1115196078431373
+                "top": 742,
+                "zoom": 1.1433823529411764
               },
               "pinned": true,
               "icon": "lucide-file-text",
@@ -69,10 +51,10 @@
               "type": "pdf",
               "state": {
                 "file": "Sem1/MA1130/Practice/MA1130 Vector Calculus – Solutions to Assignments 1 & 2.pdf",
-                "page": 3,
-                "left": -11,
-                "top": 448,
-                "zoom": 1.1528188415535547
+                "page": 12,
+                "left": -13,
+                "top": 482,
+                "zoom": 1.1754972449939525
               },
               "pinned": true,
               "icon": "lucide-file-text",
@@ -80,99 +62,51 @@
             }
           },
           {
-            "id": "9e9ceb7282e50ebe",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/CS1010/Notes/Graph Theory/hall_marriage_exam_kit.pdf",
-                "page": 2,
-                "left": -14,
-                "top": 826,
-                "zoom": 1.142747229856403
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "hall_marriage_exam_kit"
-            }
-          },
-          {
-            "id": "b0ebe29bb9b201fd",
+            "id": "3de619dd4dbd3075",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/ID1063/Notes/ID1063 Endsem Theory Study Guide.pdf",
-                "page": 13,
-                "left": -13,
-                "top": 492,
-                "zoom": 1.1115196078431373
-              },
-              "icon": "lucide-file-text",
-              "title": "ID1063 Endsem Theory Study Guide"
-            }
-          },
-          {
-            "id": "c6802ae0ab20a9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/CS1010/About.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "About"
-            }
-          },
-          {
-            "id": "3b6c363674974a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sem1/ID1063/Exams/Midsem Theory.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Midsem Theory"
-            }
-          },
-          {
-            "id": "4d6d6d87a9f9868f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/CS1010/Practice/exam3 2025.pdf",
+                "file": "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
                 "page": 1,
-                "left": -14,
-                "top": 239,
-                "zoom": 1.1413590604026846
+                "left": -4,
+                "top": 396,
+                "zoom": 1.3
               },
               "icon": "lucide-file-text",
-              "title": "exam3 2025"
+              "title": "finalPractice"
             }
           },
           {
-            "id": "1ec87df31e5f1eda",
+            "id": "d58fbe602c0880fb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/ID1063/Lecture Slides/Week13-1.pdf",
-                "page": 3,
-                "left": -20,
-                "top": 21,
-                "zoom": 0.7993537015276146
+                "file": "Sem1/ID1063/Practice/endsem-lab-practice/ID1063_Lab_Problems_Compiled.pdf",
+                "page": 54,
+                "left": -4,
+                "top": 450,
+                "zoom": 1.1755059337221279
               },
               "icon": "lucide-file-text",
-              "title": "Week13-1"
+              "title": "ID1063_Lab_Problems_Compiled"
+            }
+          },
+          {
+            "id": "351315ef6cf09751",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
+                "page": 2,
+                "left": -13,
+                "top": 241,
+                "zoom": 1.1433823529411764
+              },
+              "icon": "lucide-file-text",
+              "title": "finalPractice"
             }
           }
         ],
@@ -235,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.59832763671875
+    "width": 251.28256225585938
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -344,22 +278,22 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "b0ebe29bb9b201fd",
+  "active": "351315ef6cf09751",
   "lastOpenFiles": [
-    "Sem1/CS1010/Exams/exam2-answer-copy.pdf",
-    "Sem1/CS1010/Exams/exam3.pdf",
-    "Sem1/ID1063/Lab/Lab14/A.c~",
-    "Sem1/ID1063/Lab/Lab14/matrix.txt~",
-    "Sem1/ID1063/Lab/Lab14/A",
-    "Sem1/ID1063/Lab/Lab14/A.c",
-    "Sem1/ID1063/Lab/Lab14/matrix.txt",
-    "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
-    "Sem1/ID1063/Lab/Lab14",
-    "Sem1/ID1063/Notes/ITP_Endsem_Theory_Cheatsheet.pdf",
+    "Sem1/ID1063/Practice/endsem-lab-practice/a.c~",
+    "Sem1/ID1063/Practice/endsem-lab-practice/ID1063_Lab_Problems_Compiled.pdf",
     "Sem1/ID1063/Lecture Slides/Week14-2.pdf",
+    "Sem1/MA1130/Lecture Slides/lecture-notes.pdf",
+    "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
+    "Sem1/ID1063/Practice/endsem-lab-practice/a.c",
+    "Sem1/ID1063/Practice/endsem-lab-practice/b.c~",
+    "Sem1/ID1063/Practice/endsem-lab-practice/b",
+    "Sem1/ID1063/Practice/endsem-lab-practice/b.c",
+    "Sem1/ID1063/Lab/Lab13/4b.c~",
+    "Sem1/ID1063/Lab/Lab13/LabThirteen-FileHandling/findElement.c~",
+    "Sem1/ID1063/Exams/Midsem Theory.md",
     "Sem1/CS1010/About.md",
     "Sem1/ID1063/About.md",
-    "Sem1/ID1063/Exams/Midsem Theory.md",
     "Sem1/ID1063/Shared/ID1063-SharedStudentMaterial/Lab13-RecursionAndFileHandling/LabThirteen-FileHandling/redSanta.bmp",
     "Untitled.md",
     "Sem1/LA1760/Lecture Content/Part2/Exam2.md",

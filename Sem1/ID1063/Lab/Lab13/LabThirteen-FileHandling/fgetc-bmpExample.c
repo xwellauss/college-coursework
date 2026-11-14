@@ -53,7 +53,7 @@ int main()
 	fclose(opt);
 	fclose(ptr);
 
-	printf("Success!");
+	printf("Success!\n");
 
 	return 0;
 }

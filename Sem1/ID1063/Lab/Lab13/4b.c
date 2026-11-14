@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include <string.h>
 
 int main()
@@ -9,12 +8,11 @@ int main()
 	char country[100];
 	scanf("%99[^\n]", country);
 
-	while(!feof(fp))
-	{
-		char c[100], d[100];
 
-		fscanf(fp, " %99[^-] - %99[^\n]", c, d);
-		c[strlen(c) - 1] = '\0';
+	char c[100], d[100];
+	while(fscanf(fp, " %99[^-] - %99[^\n]", c, d) == 2)
+	{
+		int len = strlen(c);
 
 		if(strcmp(country, c) == 0)
 		{
