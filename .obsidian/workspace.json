@@ -4,109 +4,111 @@
     "type": "split",
     "children": [
       {
-        "id": "15c8cc9c6b4be7a4",
+        "id": "41e8251bf87bc356",
         "type": "tabs",
         "children": [
           {
-            "id": "e3e533006dab3c75",
+            "id": "0bab071992dc5904",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/MA1130/References/VectorCalculus.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 428,
-                "zoom": 1.1213235294117647
+                "file": "Sem1/EP1108/Lecture Slides/Part3/intro_to_stat_mech.pdf",
+                "page": 3,
+                "left": -14,
+                "top": 156,
+                "zoom": 1.1501677852348993
               },
               "pinned": true,
               "icon": "lucide-file-text",
-              "title": "VectorCalculus"
+              "title": "intro_to_stat_mech"
             }
           },
           {
-            "id": "a0754768f18a164f",
+            "id": "fa927da73a9dae8a",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Sem1/MA1130/Lecture Slides/lecture-notes.pdf",
-                "page": 1,
-                "left": -13,
-                "top": 742,
-                "zoom": 1.1433823529411764
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "lecture-notes"
-            }
-          },
-          {
-            "id": "a7615cb6a3b12076",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/MA1130/Practice/MA1130 Vector Calculus – Solutions to Assignments 1 & 2.pdf",
-                "page": 12,
-                "left": -13,
-                "top": 482,
-                "zoom": 1.1754972449939525
-              },
-              "pinned": true,
-              "icon": "lucide-file-text",
-              "title": "MA1130 Vector Calculus – Solutions to Assignments 1 & 2"
-            }
-          },
-          {
-            "id": "3de619dd4dbd3075",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
-                "page": 1,
-                "left": -4,
-                "top": 396,
-                "zoom": 1.3
-              },
-              "icon": "lucide-file-text",
-              "title": "finalPractice"
-            }
-          },
-          {
-            "id": "d58fbe602c0880fb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/ID1063/Practice/endsem-lab-practice/ID1063_Lab_Problems_Compiled.pdf",
-                "page": 54,
-                "left": -4,
-                "top": 450,
-                "zoom": 1.1755059337221279
-              },
-              "icon": "lucide-file-text",
-              "title": "ID1063_Lab_Problems_Compiled"
-            }
-          },
-          {
-            "id": "351315ef6cf09751",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
+                "file": "Sem1/EP1108/Lecture Slides/Part4/L1.pdf",
                 "page": 2,
+                "left": -16,
+                "top": 470,
+                "zoom": 0.9520833333333335
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "L1"
+            }
+          },
+          {
+            "id": "d8bf868a89d4fcc8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/EP1108/Lecture Slides/Part4/L3.pdf",
+                "page": 20,
+                "left": -16,
+                "top": 296,
+                "zoom": 0.9520833333333335
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "L3"
+            }
+          },
+          {
+            "id": "8e5730fc7dc27494",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/EP1108/Lecture Slides/Part4/Radioactivity.pdf",
+                "page": 1,
                 "left": -13,
-                "top": 241,
-                "zoom": 1.1433823529411764
+                "top": 395,
+                "zoom": 1.1501677852348995
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Radioactivity"
+            }
+          },
+          {
+            "id": "0f80929f58ddad3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/EP1108/Lecture Slides/Part4/Radioactivity.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 846,
+                "zoom": 1.1501677852348995
               },
               "icon": "lucide-file-text",
-              "title": "finalPractice"
+              "title": "Radioactivity"
+            }
+          },
+          {
+            "id": "42d2c9f0e82524fa",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Sem1/EP1108/Practice/EndSem/endsem_2024_questions.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 399,
+                "zoom": 1.151567442038612
+              },
+              "icon": "lucide-file-text",
+              "title": "endsem_2024_questions"
             }
           }
         ],
@@ -169,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.28256225585938
+    "width": 269.697265625
   },
   "right": {
     "id": "07eae91abbb64b7c",
@@ -278,19 +280,19 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "351315ef6cf09751",
+  "active": "42d2c9f0e82524fa",
   "lastOpenFiles": [
-    "Sem1/ID1063/Practice/endsem-lab-practice/a.c~",
-    "Sem1/ID1063/Practice/endsem-lab-practice/ID1063_Lab_Problems_Compiled.pdf",
-    "Sem1/ID1063/Lecture Slides/Week14-2.pdf",
-    "Sem1/MA1130/Lecture Slides/lecture-notes.pdf",
-    "Sem1/ID1063/Lab/Lab14/finalPractice.pdf",
-    "Sem1/ID1063/Practice/endsem-lab-practice/a.c",
-    "Sem1/ID1063/Practice/endsem-lab-practice/b.c~",
-    "Sem1/ID1063/Practice/endsem-lab-practice/b",
-    "Sem1/ID1063/Practice/endsem-lab-practice/b.c",
-    "Sem1/ID1063/Lab/Lab13/4b.c~",
-    "Sem1/ID1063/Lab/Lab13/LabThirteen-FileHandling/findElement.c~",
+    "Sem1/EP1108/Practice/EndSem/Modern_Physics_QP-2025.xopp~",
+    "Sem1/EP1108/Practice/MidSem/ep1108-mid-sem-2024.pdf",
+    "Sem1/EP1108/Practice/MidSem/EP1108 Modern Physics - Exam 1.pdf",
+    "Sem1/EP1108/Practice/EndSem/questions.pdf",
+    "Sem1/EP1108/Practice/EndSem/Modern_Physics_QP-2025.xopp",
+    "Sem1/EP1108/Practice/EndSem/endsem_2024_questions.xopp~",
+    "Sem1/EP1108/Practice/EndSem/Modern_Physics_QP-2025.pdf",
+    "Sem1/EP1108/Practice/EndSem/endsem_2024_questions.xopp",
+    "Sem1/EP1108/Practice/EndSem/questions.xopp~",
+    "Sem1/EP1108/Practice/EndSem/questions.xopp",
+    "Sem1/EP1108/Practice/EndSem/endsem_2024_questions.pdf",
     "Sem1/ID1063/Exams/Midsem Theory.md",
     "Sem1/CS1010/About.md",
     "Sem1/ID1063/About.md",
